@@ -51,7 +51,7 @@ namespace TextToRegionallIndicator
                     c.ToString() == "y" || c.ToString() == "Y" ||
                     c.ToString() == "z" || c.ToString() == "Z")
                 {
-                    output = output + ":regional_indicator_" + c.ToString() + ": ";
+                    output = output + ":regional_indicator_" + c.ToString().ToLower() + ": ";
                 }
                 if (c.ToString() == "0")
                 {
@@ -124,6 +124,8 @@ namespace TextToRegionallIndicator
             }
 
             Clipboard.SetText(output);
+            output = "";
+            textBox1.Text = "";
         }
     }
 }
