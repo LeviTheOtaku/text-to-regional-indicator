@@ -1,0 +1,10 @@
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\bin\Debug\TextToRegionallIndicator.exe.config
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\bin\Debug\TextToRegionallIndicator.exe
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\bin\Debug\TextToRegionallIndicator.pdb
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.csprojAssemblyReference.cache
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.Form1.resources
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.Properties.Resources.resources
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.csproj.GenerateResource.cache
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.csproj.CoreCompileInputs.cache
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.exe
+C:\Users\levij\source\repos\TextToRegionallIndicator\TextToRegionallIndicator\obj\Debug\TextToRegionallIndicator.pdb
